@@ -25,5 +25,9 @@
       }
     }
   },
-  "projects": {}
+  "projects": {
+    "java-api": {
+      "tags": []
+    }
+  }
 }
